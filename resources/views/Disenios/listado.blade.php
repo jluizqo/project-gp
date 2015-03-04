@@ -51,7 +51,6 @@
                         <td>
                             <a href="#" title="Editar"><i class="fa fa-edit fa-lg"></i></a> 
                             <a href="#" title="Enviar a Basurero" style="color: #E64500;"><i class="fa fa-trash fa-lg"></i></a>
-
                         </td>
                     </tr>  
                     <?php
