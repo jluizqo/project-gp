@@ -1,0 +1,25 @@
+#header  {
+    background: #4d7496;    
+    border-bottom: 5px solid #2A4053;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+
+}
+#sidebar{    
+    background: #ECECEC;
+    height: 91%;    
+    position: fixed;
+    z-index: 1000;
+    overflow-y: auto;   
+}
+#content{padding-top: 15px ;}
+.navbar-nav > li > a{color:#FFF;}
+.navbar-nav > li > a:hover,.navbar-nav > li > a:focus{color:#4D7496;}
+.margin-none{margin:  0 !important;}
+.padding-none{padding: 0 !important;}
+.padd-top-fixed{padding-top: 57px;}
+#accordion .panel-heading{padding: 0;}
+#accordion .panel-title a{padding: 10px 15px;display: block;text-decoration: none;}
+#accordion .panel-title a:focus{background: #4D7496;color: #FFF;}
+
